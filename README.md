@@ -1,5 +1,6 @@
 <b>Task</b> 
 
+
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it (recall that to refactor code is to improve it without changing what it does) to meet a certain set of standards or implement a new technology. In this Challenge, a marketing agency has hired you to refactor an existing site to make it more accessible.
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
@@ -23,4 +24,4 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+![Screen Shot 2021-05-09 at 9 00 18 PM](https://user-images.githubusercontent.com/83053936/117605914-a07a6880-b10d-11eb-9f57-015907e8f300.jpeg)
