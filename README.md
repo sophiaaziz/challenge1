@@ -25,3 +25,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ![Screen Shot 2021-05-09 at 9 00 18 PM](https://user-images.githubusercontent.com/83053936/117605914-a07a6880-b10d-11eb-9f57-015907e8f300.jpeg)
+
+
+Click [here](https://sophiaaziz.github.io/challenge1/) to go to my website. 
+Click [here](https://github.com/sophiaaziz/challenge1) to go to my repository.
+
